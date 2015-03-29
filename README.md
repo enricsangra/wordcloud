@@ -17,3 +17,6 @@ There's a watcher configured to the files. Every time they are saved, the tests 
 ## Testing in browser
 The package "http-server" is also installed to be able to run the application if needed in the browser.
 Run "http-server" in console and access through http://localhost:8080/topic_cloud.html#topic_cloud to the app.
+
+## Modifying the data
+The data used for the collection of topics can be found at "data/topics.json" file. Modify this to add new topics if necessary.
